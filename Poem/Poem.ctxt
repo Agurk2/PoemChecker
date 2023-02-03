@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Poem
+comment0.text=\n\ Abstract\ class\ Poem\ has\ abstract\ methods\ getSyllables\ and\ numLines.\ It\ \n\ also\ contains\ concrete\ method\ printRythmn\n
+comment1.params=lineNumber
+comment1.target=int\ getSyllables(int)
+comment1.text=\n\ @returns\ the\ amount\ of\ syllabels\ in\ a\ line\ defined\ as\ the\ amount\ of\n\ a,\ e,\ i,\ o,\ and\ u\ that\ the\ line\ contains\n
+comment2.params=
+comment2.target=int\ numLines()
+comment3.params=lim
+comment3.target=void\ printRythmn(java.lang.Boolean)
+comment3.text=\n\ Print\ the\ requirements\ for\ a\ limerick\ or\ haiku\n
+numComments=4
